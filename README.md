@@ -15,7 +15,7 @@ This is a static website created as part of the Front-End Web Development CA1 (C
 - HTML5  
 - CSS3 (Flexbox, media queries for responsiveness)  
 
-## Project Structure
+<pre>Project Structure
 fed-ca1-sustainability-site/
 ├── index.html # Homepage of the website
 ├── aspirations.html # Aspirations page 
@@ -38,7 +38,8 @@ fed-ca1-sustainability-site/
 │ ├── reuse-logo.png
 │ ├── sustainable-products.jpg
 │ └── zero-waste-centre.png
-├── README.md # This README file
+├── README.md # This README file 
+</pre>
 
 ## What I Learned
 - Building a responsive website with Flexbox  
