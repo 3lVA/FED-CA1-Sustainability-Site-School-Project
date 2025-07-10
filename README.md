@@ -2,7 +2,8 @@
 Static site about sustainability for FED CA1 (HTML/CSS)
 
 # Sustainability Website — FED CA1 Project
-This is a static website created as part of the Front-End Web Development CA1 (Continuous Assessment 1) project for my course. 
+This is a static website created as part of the Front-End Web Development CA1 (Continuous Assessment 1) project for my course.
+**Grade: A**
 
 ## Features
 - Responsive layout using HTML5 and CSS3  
